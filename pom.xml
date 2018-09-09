@@ -46,8 +46,6 @@
 					<tag>HEAD</tag>
 				</configuration>
 			</plugin>
-
-			
 		</plugins>
 	</build>
 
